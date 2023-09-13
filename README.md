@@ -1,21 +1,18 @@
 # Projeto-List-Array
  Projeto-List
- 
-# TECNOLOGIAS HTML5, JAVASCRIPT
-Lista de Array
-
-![list](https://user-images.githubusercontent.com/102436341/230483492-d7b90fc9-aeae-46b8-a571-e56d29b57743.png)
 
 # Projeto Lista de Nomes
 
-Este é um simples projeto em HTML, CSS e JavaScript que permite aos usuários pesquisar e carregar nomes de uma lista. Ele foi criado como parte de um exercício de aprendizado.
+Este é um simples projeto em HTML, CSS, JavaScript e Bootstrap que permite aos usuários pesquisar e carregar nomes de uma lista. Ele foi criado como parte de um exercício de aprendizado.
 
-![list-2](https://github.com/paulo-santos360/List-Array/assets/102436341/2712e856-25d3-4fc1-89b6-7cdbc390d36a)
+![list](https://user-images.githubusercontent.com/102436341/230483492-d7b90fc9-aeae-46b8-a571-e56d29b57743.png)
 
 ## Funcionalidades
 
 - Pesquisar nomes na lista.
 - Carregar todos os nomes da lista.
+
+![list-2](https://github.com/paulo-santos360/List-Array/assets/102436341/2712e856-25d3-4fc1-89b6-7cdbc390d36a)
 
 ## Pré-requisitos
 
