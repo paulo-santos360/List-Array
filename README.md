@@ -1,7 +1,4 @@
-# Projeto-List-Array
- Projeto-List
-
-# Projeto Lista de Nomes
+# Projeto List-Array
 
 Este é um simples projeto em HTML, CSS, JavaScript e Bootstrap que permite aos usuários pesquisar e carregar nomes de uma lista. Ele foi criado como parte de um exercício de aprendizado.
 
